@@ -83,8 +83,6 @@ A Site Navigation for Android Developers
 
 - [51CTO学院](http://edu.51cto.com)
 
-- [一起学IT](http://17xueit.com)
-
 - [牛客网](http://www.nowcoder.com)
 
 - [Android学习之路](http://stormzhang.com/android/2020/07/07/learn-android-from-rookie/)
