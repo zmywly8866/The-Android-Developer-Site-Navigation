@@ -125,6 +125,10 @@ A Site Navigation for Android Developers
 
 - [NewCircle Training](https://www.youtube.com/user/MarakanaTechTV)
 
+- [Android-Develop-Resources](https://github.com/zmywly8866/Android-Develop-Resources)
+
+- [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles)
+
 **QQ群**
 
 - 243182658
