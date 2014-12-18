@@ -93,6 +93,8 @@ A Site Navigation for Android Developers
 
 - [What are the best sites to learn about developing Android apps?](https://www.quora.com/What-are-the-best-sites-to-learn-about-developing-Android-apps)
 
+- [CodePath](http://guides.codepath.com/android)
+
 **APP**
 
 - [DevAppsDirect](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect&amp;hl=zh_CN")
