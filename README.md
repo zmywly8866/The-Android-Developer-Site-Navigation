@@ -137,6 +137,10 @@ A Site Navigation for Android Developers
 
 - [Worth-Reading-the-Android-technical-articles](https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles)
 
+- [单元测试robotium](http://www.robotium.cn/)
+
+- [代码质量管理sonar](http://sonar.oschina.net/)
+
 **QQ群**
 
 - 243182658
