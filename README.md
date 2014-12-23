@@ -87,6 +87,10 @@ A Site Navigation for Android Developers
 
 - [牛客网](http://www.nowcoder.com)
 
+- [noexcuselist](http://noexcuselist.com/)
+
+- [tutorialspoint](http://www.tutorialspoint.com/)
+
 - [Android学习之路](http://stormzhang.com/android/2020/07/07/learn-android-from-rookie/)
 
 - [如何自学android编程？](http://www.zhihu.com/question/26417244)
@@ -114,6 +118,8 @@ A Site Navigation for Android Developers
 - [100offer](https://100offer.com)
 
 - [Android jobs](https://github.com/android-cn/android-jobs)
+
+- [skillgun](http://skillgun.com/)
 
 **其它**
 
