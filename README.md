@@ -54,6 +54,12 @@ A Site Navigation for Android Developers
 
 - [awesome-android](https://github.com/snowdream/awesome-android)
 
+- [androidcustomviews](http://androidcustomviews.com/)
+
+- [code4app](http://a.code4app.com/)
+
+- [android-libs](http://android-libs.com/)
+
 **博客**
 
 - [android-dev-cn](https://github.com/android-cn/android-dev-cn)
