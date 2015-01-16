@@ -52,13 +52,14 @@ A Site Navigation for Android Developers
 
 - [Android Open Project Analysis](https://github.com/android-cn/android-open-project-analysis)
 
-- [awesome-android](https://github.com/snowdream/awesome-android)
+- [awesome-android](https://github.com/snowdream/awesome-android)、[awesome-android](http://snowdream.github.io/awesome-android/)
 
 - [androidcustomviews](http://androidcustomviews.com/)
 
 - [code4app](http://a.code4app.com/)
 
 - [android-libs](http://android-libs.com/)
+
 
 **博客**
 
@@ -77,6 +78,8 @@ A Site Navigation for Android Developers
 - [Android Cool Posts](http://greenrobot.me/)
 
 - [zmywly8866](http://zmywly8866.github.io/)
+
+- [sangmingming](http://blog.isming.me/)
 
 
 **学习导航**
