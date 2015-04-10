@@ -160,3 +160,5 @@ A Site Navigation for Android Developers
 - [单元测试robotium](http://www.robotium.cn/)
 
 - [代码质量管理sonar](http://sonar.oschina.net/)
+
+- [Android程序员必备精品资源](http://www.cnblogs.com/xiaochao1234/p/4409486.html)
